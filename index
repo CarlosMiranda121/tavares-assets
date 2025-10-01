@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Página Inicial - Sistema de gestão Tavares Transportes</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: 40px auto; padding: 20px; }
+        h1 { color: #333; }
+    </style>
+</head>
+<body>
+
+    <h1>Sobre o Sistema de gestão Tavares Transportes</h1>
+
+    <p>
+        Bem-vindo à página do <strong>Sistema de gestão Tavares Transportes</strong>. Este é um script desenvolvido para automatizar a criação de relatórios a partir de planilhas do Google Sheets.
+    </p>
+
+    <p>
+        O objetivo é simplificar suas tarefas e aumentar sua produtividade dentro do ecossistema do Google.
+    </p>
+
+    <p>
+        Para entender como seus dados são utilizados por este aplicativo, por favor, consulte nossa 
+        <a href="https://github.com/CarlosMiranda121/tavares-assets/blob/6b44969f55d535a956575bfd6e4a046052fcd078/Politica_Privacidade_Tavares_Transportes.pdf">Política de Privacidade</a>.
+    </p>
+
+</body>
+</html>
